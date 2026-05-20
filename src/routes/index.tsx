@@ -411,7 +411,7 @@ function About() {
           <img
             src={aboutTeam}
             alt="Profissional da Ideal Clima Refrigeração realizando manutenção"
-            className="relative rounded-2xl shadow-[var(--shadow-elegant)] w-full h-[520px] object-cover object-top"
+            className="relative rounded-2xl shadow-[var(--shadow-elegant)] w-full h-[520px] object-cover object-center"
             loading="lazy"
             width={1024}
             height={1024}
